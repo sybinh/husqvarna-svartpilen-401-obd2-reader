@@ -14,16 +14,22 @@
 #include <WebServer.h>
 #include "common_types.h"
 #include "hal_interface.h"
+#include "can_interface.h"
 #include "obd2_handler.h"
 
 // System Configuration
 const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
-// Hardware Pins
-#define CAN_RX_PIN 4
-#define CAN_TX_PIN 5
-#define STATUS_LED 2
+// Hardware Pins Configuration for MCP2515
+static const HardwarePins_t hardware_pins = {
+    .mcp2515_cs = 5,                /* MCP2515 CS pin */
+    .mcp2515_int = 2,               /* MCP2515 INT pin */
+    .spi_mosi = 23,                 /* SPI MOSI pin */
+    .spi_miso = 19,                 /* SPI MISO pin */
+    .spi_sck = 18,                  /* SPI SCK pin */
+    .status_led = 25                /* Status LED pin */
+};
 
 // Global Variables
 WebServer server(80);
@@ -37,6 +43,12 @@ void system_task(void);
 void handleRoot(void);
 void handleData(void);
 
+// Function declarations
+void system_init(void);
+void system_task(void);
+void vehicle_data_callback(VehicleData_t* data);
+void output_vehicle_data_json(void);
+
 void setup() {
     Serial.begin(115200);
     Serial.println("Husqvarna Svartpilen 401 OBD2 Reader v1.0");
@@ -48,21 +60,40 @@ void setup() {
 }
 
 void loop() {
+    static unsigned long last_json_output = 0;
+    const unsigned long JSON_OUTPUT_INTERVAL = 1000; // Output every 1 second
+    
     server.handleClient();
     system_task();
+    
+    // Output JSON data for desktop application
+    unsigned long current_time = millis();
+    if (current_time - last_json_output >= JSON_OUTPUT_INTERVAL) {
+        output_vehicle_data_json();
+        last_json_output = current_time;
+    }
+    
     delay(10);
 }
 
+// Pin definitions for easy access
+#define STATUS_LED hardware_pins.status_led
+
 void system_init(void) {
-    // Initialize GPIO
-    HAL_GPIO_Init(STATUS_LED, GPIO_MODE_OUTPUT);
-    HAL_GPIO_Write(STATUS_LED, GPIO_LEVEL_LOW);
+    // Initialize GPIO for status LED
+    HAL_GPIO_Init(hardware_pins.status_led, HAL_GPIO_MODE_OUTPUT);
+    HAL_GPIO_Write(hardware_pins.status_led, GPIO_LEVEL_LOW);
+    
+    // Initialize MCP2515 CAN controller
+    if (!CAN_InitMCP2515(&hardware_pins)) {
+        Serial.println("Error: MCP2515 CAN initialization failed");
+        current_state = SYSTEM_STATE_ERROR;
+        return;
+    }
+    Serial.println("MCP2515 CAN controller initialized");
     
     // Initialize OBD2 handler
     OBD2_Config_t obd2_config;
-    obd2_config.can_rx_pin = CAN_RX_PIN;
-    obd2_config.can_tx_pin = CAN_TX_PIN;
-    obd2_config.can_baudrate = 500000;
     obd2_config.update_interval_ms = 100;
     
     Status_t status = OBD2_Init(&obd2_config);
@@ -73,6 +104,7 @@ void system_init(void) {
     } else {
         Serial.println("Error: OBD2 initialization failed");
         current_state = SYSTEM_STATE_ERROR;
+        return;
     }
     
     // Initialize WiFi
@@ -270,4 +302,23 @@ void handleData() {
     
     server.sendHeader("Access-Control-Allow-Origin", "*");
     server.send(200, "application/json", json);
+}
+
+// JSON output for desktop application
+void output_vehicle_data_json() {
+    // Create JSON object
+    Serial.println("{");
+    Serial.printf("  \"timestamp\": %lu,\n", millis());
+    Serial.printf("  \"rpm\": %d,\n", last_vehicle_data.rpm);
+    Serial.printf("  \"speed\": %d,\n", last_vehicle_data.speed);
+    Serial.printf("  \"coolant_temp\": %d,\n", last_vehicle_data.coolantTemp);
+    Serial.printf("  \"throttle_position\": %d,\n", last_vehicle_data.throttlePosition);
+    Serial.printf("  \"system_state\": \"%s\",\n", 
+        (current_state == SYSTEM_STATE_CONNECTED) ? "CONNECTED" :
+        (current_state == SYSTEM_STATE_IDLE) ? "IDLE" :
+        (current_state == SYSTEM_STATE_ERROR) ? "ERROR" : 
+        (current_state == SYSTEM_STATE_CONNECTING) ? "CONNECTING" : "UNKNOWN");
+    Serial.printf("  \"wifi_connected\": %s,\n", WiFi.isConnected() ? "true" : "false");
+    Serial.printf("  \"wifi_rssi\": %d\n", WiFi.RSSI());
+    Serial.println("}");
 }

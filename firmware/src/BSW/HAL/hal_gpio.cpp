@@ -14,16 +14,16 @@ Status_t HAL_GPIO_Init(uint8_t pin, GPIO_Mode_t mode) {
     }
     
     switch (mode) {
-        case GPIO_MODE_INPUT:
+        case HAL_GPIO_MODE_INPUT:
             pinMode(pin, INPUT);
             break;
-        case GPIO_MODE_OUTPUT:
+        case HAL_GPIO_MODE_OUTPUT:
             pinMode(pin, OUTPUT);
             break;
-        case GPIO_MODE_INPUT_PULLUP:
+        case HAL_GPIO_MODE_INPUT_PULLUP:
             pinMode(pin, INPUT_PULLUP);
             break;
-        case GPIO_MODE_INPUT_PULLDOWN:
+        case HAL_GPIO_MODE_INPUT_PULLDOWN:
             pinMode(pin, INPUT_PULLDOWN);
             break;
         default:

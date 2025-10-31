@@ -12,10 +12,10 @@
 
 /* GPIO operations */
 typedef enum {
-    GPIO_MODE_INPUT = 0,
-    GPIO_MODE_OUTPUT = 1,
-    GPIO_MODE_INPUT_PULLUP = 2,
-    GPIO_MODE_INPUT_PULLDOWN = 3
+    HAL_GPIO_MODE_INPUT = 0,
+    HAL_GPIO_MODE_OUTPUT = 1,
+    HAL_GPIO_MODE_INPUT_PULLUP = 2,
+    HAL_GPIO_MODE_INPUT_PULLDOWN = 3
 } GPIO_Mode_t;
 
 typedef enum {

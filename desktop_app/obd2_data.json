@@ -1,0 +1,10 @@
+{
+  "timestamp": 1761906933,
+  "rpm": 0,
+  "speed": 1,
+  "coolant_temp": 44,
+  "throttle_position": 0,
+  "system_state": "ENGINE_OFF",
+  "wifi_connected": true,
+  "wifi_rssi": -36
+}

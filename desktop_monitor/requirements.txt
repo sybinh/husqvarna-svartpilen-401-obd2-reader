@@ -1,0 +1,32 @@
+# Desktop Monitor Requirements
+# Husqvarna Svartpilen 401 OBD2 Reader
+
+# Core GUI Framework
+PyQt6>=6.7.0
+
+# Serial Communication
+pyserial>=3.5
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Networking
+requests>=2.31.0
+
+# Development Tools
+pytest>=7.4.0
+pytest-qt>=4.2.0
+black>=23.7.0
+flake8>=6.0.0
+
+# Documentation
+sphinx>=7.1.0
+sphinx-rtd-theme>=1.3.0
+
+# Optional: Data Visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Optional: Data Storage
+sqlalchemy>=2.0.0
