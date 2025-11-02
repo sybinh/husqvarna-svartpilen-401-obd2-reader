@@ -1,38 +1,29 @@
-﻿# Husqvarna Svartpilen 401 OBD2 Reader# Husqvarna Svartpilen 401 OBD2 Reader
+﻿# Husqvarna Svartpilen 401 OBD2 Reader
 
+## 🚀 Version 2.0 - BLE Edition
 
+A comprehensive OBD2 monitoring system designed specifically for the Husqvarna Svartpilen 401 motorcycle, featuring ESP32-based hardware with **Bluetooth Low Energy (BLE)** and a PyQt6 desktop application for real-time wireless vehicle data visualization.
 
-A comprehensive OBD2 monitoring system designed specifically for the Husqvarna Svartpilen 401 motorcycle, featuring ESP32-based hardware and a PyQt6 desktop application for real-time vehicle data visualization.Project đọc tín hiệu OBD2 từ xe Husqvarna Svartpilen 401 (2021) thông qua ESP32.
+Project đọc tín hiệu OBD2 từ xe Husqvarna Svartpilen 401 (2021) thông qua ESP32 với kết nối **BLE không dây**.
 
+## ✨ What's New in v2.0
 
+### 🔵 Bluetooth Low Energy Support
+- **Wireless connection** via BLE - No USB cable needed!
+- ESP32 mounts directly on motorcycle
+- Desktop app connects wirelessly
+- ~10-100m range depending on environment
+- Lower power consumption than WiFi
 
-## 🏍️ Project Overview## Tính năng
+### 🎯 Key Features
 
-
-
-This project provides a complete solution for monitoring motorcycle engine parameters through the OBD2 port, displaying real-time data including RPM, speed, coolant temperature, throttle position, and system status.- Đọc dữ liệu OBD2 real-time từ xe máy
-
-- Hiển thị RPM, tốc độ, nhiệt độ nước làm mát
-
-### Key Features- Web interface để monitor từ xa
-
-- Kiến trúc layered chuyên nghiệp
-
-- **Real-time Data Monitoring**: Live display of engine parameters
-
-- **ESP32-based Hardware**: Wireless data transmission via WiFi## Hardware
-
-- **Desktop Application**: Professional PyQt6 GUI with dark theme
-
-- **CAN Bus Interface**: MCP2515 controller for OBD2 communication- ESP32 DevKit
-
-- **Motorcycle-specific**: Optimized for Husqvarna Svartpilen 401- MCP2515 CAN Controller với 8MHz crystal
-
-- **Extensible Architecture**: Modular design for easy enhancement- CAN transceiver (SN65HVD230)  
-
-- OLED display (optional)
-
-## 📁 Project Structure- Status LED
+- **Real-time Data Monitoring**: Live display of engine parameters via BLE
+- **ESP32-based Hardware**: Wireless data transmission via Bluetooth or WiFi
+- **Desktop Application**: Professional PyQt6 GUI with dark theme and BLE scanner
+- **Dual Mode**: BLE for desktop + HTTP for web browser monitoring
+- **CAN Bus Interface**: MCP2515 controller for OBD2 communication
+- **Motorcycle-specific**: Optimized for Husqvarna Svartpilen 401
+- **Extensible Architecture**: Modular design for easy enhancement
 
 
 

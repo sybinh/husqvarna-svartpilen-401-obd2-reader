@@ -14,8 +14,10 @@ class SystemState(Enum):
     """System operation states"""
     UNKNOWN = "UNKNOWN"
     ENGINE_OFF = "ENGINE_OFF"
+    STOPPED = "STOPPED"  # Engine stopped/off
     IDLE = "IDLE"
     ACCELERATING = "ACCELERATING"
+    CONNECTED = "CONNECTED"  # Normal running/connected
     CITY = "CITY"
     HIGHWAY = "HIGHWAY"
     COOLING = "COOLING"
@@ -35,15 +37,16 @@ class VehicleData:
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> 'VehicleData':
         """Create VehicleData from dictionary"""
+        # Convert float to int for numeric fields
         return cls(
-            timestamp=data.get('timestamp', 0),
-            rpm=data.get('rpm', 0),
-            speed=data.get('speed', 0),
-            coolant_temp=data.get('coolant_temp', 0),
-            throttle_position=data.get('throttle_position', 0),
+            timestamp=int(data.get('timestamp', 0)),
+            rpm=int(data.get('rpm', 0)),
+            speed=int(data.get('speed', 0)),
+            coolant_temp=int(float(data.get('coolant_temp', 0))),
+            throttle_position=int(data.get('throttle_position', 0)),
             system_state=SystemState(data.get('system_state', 'UNKNOWN')),
-            wifi_connected=data.get('wifi_connected', False),
-            wifi_rssi=data.get('wifi_rssi', 0)
+            wifi_connected=bool(data.get('wifi_connected', False)),
+            wifi_rssi=int(data.get('wifi_rssi', 0))
         )
     
     def to_dict(self) -> Dict[str, Any]:

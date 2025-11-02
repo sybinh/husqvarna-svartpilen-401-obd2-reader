@@ -1,0 +1,3002 @@
+[
+  {
+    "timestamp": 1761930173800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 25.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930174800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 25.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930175800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 26.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930176800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 26.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930177800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 27.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930178800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 27.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930179800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 28.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930180800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 28.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930181800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 29.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930182800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 29.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930183800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 30.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930184800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 30.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930185800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 31.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930186800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 31.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930187800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 32.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930188800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 32.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930189800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 33.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930190800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 33.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930191800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 34.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930192800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 34.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930193800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 35.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930194800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 35.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930195800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 36.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930196800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 36.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930197800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 37.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930198800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 37.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930199800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 38.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930200800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 38.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930201800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 39.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930202800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 39.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930203800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 40.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930204800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 40.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930205800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 41.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930206800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 41.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930207800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 42.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930208800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 42.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930209800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 43.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930210800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 43.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930211800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 44.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930212800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 44.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930213800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 45.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930214800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 45.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930215800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 46.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930216800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 46.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930217800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 47.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930218800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 47.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930219800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 48.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930220800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 48.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930221800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 49.0,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930222800,
+    "rpm": 0,
+    "speed": 0,
+    "coolant_temp": 49.5,
+    "throttle_position": 0,
+    "system_state": "STOPPED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930223800,
+    "rpm": 870,
+    "speed": 0,
+    "coolant_temp": 50.0,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930224800,
+    "rpm": 930,
+    "speed": 0,
+    "coolant_temp": 50.7,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930225800,
+    "rpm": 805,
+    "speed": 0,
+    "coolant_temp": 51.4,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930226800,
+    "rpm": 965,
+    "speed": 0,
+    "coolant_temp": 52.1,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930227800,
+    "rpm": 919,
+    "speed": 0,
+    "coolant_temp": 52.8,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930228800,
+    "rpm": 892,
+    "speed": 0,
+    "coolant_temp": 53.5,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930229800,
+    "rpm": 875,
+    "speed": 0,
+    "coolant_temp": 54.2,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930230800,
+    "rpm": 937,
+    "speed": 0,
+    "coolant_temp": 54.9,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930231800,
+    "rpm": 936,
+    "speed": 0,
+    "coolant_temp": 55.6,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930232800,
+    "rpm": 824,
+    "speed": 0,
+    "coolant_temp": 56.3,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930233800,
+    "rpm": 803,
+    "speed": 0,
+    "coolant_temp": 57.0,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930234800,
+    "rpm": 938,
+    "speed": 0,
+    "coolant_temp": 57.7,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930235800,
+    "rpm": 971,
+    "speed": 0,
+    "coolant_temp": 58.4,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930236800,
+    "rpm": 838,
+    "speed": 0,
+    "coolant_temp": 59.1,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930237800,
+    "rpm": 912,
+    "speed": 0,
+    "coolant_temp": 59.8,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930238800,
+    "rpm": 842,
+    "speed": 0,
+    "coolant_temp": 60.5,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930239800,
+    "rpm": 930,
+    "speed": 0,
+    "coolant_temp": 61.2,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930240800,
+    "rpm": 854,
+    "speed": 0,
+    "coolant_temp": 61.9,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930241800,
+    "rpm": 986,
+    "speed": 0,
+    "coolant_temp": 62.6,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930242800,
+    "rpm": 838,
+    "speed": 0,
+    "coolant_temp": 63.3,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930243800,
+    "rpm": 996,
+    "speed": 0,
+    "coolant_temp": 64.0,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930244800,
+    "rpm": 885,
+    "speed": 0,
+    "coolant_temp": 64.7,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930245800,
+    "rpm": 967,
+    "speed": 0,
+    "coolant_temp": 65.4,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930246800,
+    "rpm": 918,
+    "speed": 0,
+    "coolant_temp": 66.1,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930247800,
+    "rpm": 969,
+    "speed": 0,
+    "coolant_temp": 66.8,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930248800,
+    "rpm": 994,
+    "speed": 0,
+    "coolant_temp": 67.5,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930249800,
+    "rpm": 1000,
+    "speed": 0,
+    "coolant_temp": 68.2,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930250800,
+    "rpm": 950,
+    "speed": 0,
+    "coolant_temp": 68.9,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930251800,
+    "rpm": 836,
+    "speed": 0,
+    "coolant_temp": 69.6,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930252800,
+    "rpm": 947,
+    "speed": 0,
+    "coolant_temp": 70.3,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930253800,
+    "rpm": 864,
+    "speed": 0,
+    "coolant_temp": 71.0,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930254800,
+    "rpm": 858,
+    "speed": 0,
+    "coolant_temp": 71.7,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930255800,
+    "rpm": 824,
+    "speed": 0,
+    "coolant_temp": 72.4,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930256800,
+    "rpm": 812,
+    "speed": 0,
+    "coolant_temp": 73.1,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930257800,
+    "rpm": 955,
+    "speed": 0,
+    "coolant_temp": 73.8,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930258800,
+    "rpm": 877,
+    "speed": 0,
+    "coolant_temp": 74.5,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930259800,
+    "rpm": 875,
+    "speed": 0,
+    "coolant_temp": 75.2,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930260800,
+    "rpm": 985,
+    "speed": 0,
+    "coolant_temp": 75.9,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930261800,
+    "rpm": 957,
+    "speed": 0,
+    "coolant_temp": 76.6,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930262800,
+    "rpm": 838,
+    "speed": 0,
+    "coolant_temp": 77.3,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930263800,
+    "rpm": 907,
+    "speed": 0,
+    "coolant_temp": 78.0,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930264800,
+    "rpm": 816,
+    "speed": 0,
+    "coolant_temp": 78.7,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930265800,
+    "rpm": 972,
+    "speed": 0,
+    "coolant_temp": 79.4,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930266800,
+    "rpm": 921,
+    "speed": 0,
+    "coolant_temp": 80.1,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930267800,
+    "rpm": 938,
+    "speed": 0,
+    "coolant_temp": 80.8,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930268800,
+    "rpm": 889,
+    "speed": 0,
+    "coolant_temp": 81.5,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930269800,
+    "rpm": 961,
+    "speed": 0,
+    "coolant_temp": 82.19999999999999,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930270800,
+    "rpm": 832,
+    "speed": 0,
+    "coolant_temp": 82.9,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930271800,
+    "rpm": 988,
+    "speed": 0,
+    "coolant_temp": 83.6,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930272800,
+    "rpm": 935,
+    "speed": 0,
+    "coolant_temp": 84.3,
+    "throttle_position": 0,
+    "system_state": "IDLE",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930273800,
+    "rpm": 1500,
+    "speed": 0,
+    "coolant_temp": 85.0,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930274800,
+    "rpm": 2000,
+    "speed": 10,
+    "coolant_temp": 85.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930275800,
+    "rpm": 2500,
+    "speed": 20,
+    "coolant_temp": 85.2,
+    "throttle_position": 30,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930276800,
+    "rpm": 3000,
+    "speed": 30,
+    "coolant_temp": 85.3,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930277800,
+    "rpm": 3500,
+    "speed": 40,
+    "coolant_temp": 85.4,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930278800,
+    "rpm": 2979,
+    "speed": 48,
+    "coolant_temp": 85.5,
+    "throttle_position": 32,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930279800,
+    "rpm": 3157,
+    "speed": 54,
+    "coolant_temp": 85.6,
+    "throttle_position": 32,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930280800,
+    "rpm": 2967,
+    "speed": 47,
+    "coolant_temp": 85.7,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930281800,
+    "rpm": 3166,
+    "speed": 53,
+    "coolant_temp": 85.8,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930282800,
+    "rpm": 2930,
+    "speed": 52,
+    "coolant_temp": 85.9,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930283800,
+    "rpm": 2000,
+    "speed": 50,
+    "coolant_temp": 86.0,
+    "throttle_position": 20,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930284800,
+    "rpm": 1700,
+    "speed": 35,
+    "coolant_temp": 86.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930285800,
+    "rpm": 1400,
+    "speed": 20,
+    "coolant_temp": 86.2,
+    "throttle_position": 10,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930286800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 86.3,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930287800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 86.4,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930288800,
+    "rpm": 936,
+    "speed": 0,
+    "coolant_temp": 86.5,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930289800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 86.6,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930290800,
+    "rpm": 943,
+    "speed": 0,
+    "coolant_temp": 86.7,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930291800,
+    "rpm": 932,
+    "speed": 0,
+    "coolant_temp": 86.8,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930292800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 86.9,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -41
+  },
+  {
+    "timestamp": 1761930293800,
+    "rpm": 1500,
+    "speed": 0,
+    "coolant_temp": 87.0,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930294800,
+    "rpm": 2000,
+    "speed": 10,
+    "coolant_temp": 87.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930295800,
+    "rpm": 2500,
+    "speed": 20,
+    "coolant_temp": 87.2,
+    "throttle_position": 30,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930296800,
+    "rpm": 3000,
+    "speed": 30,
+    "coolant_temp": 87.3,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930297800,
+    "rpm": 3500,
+    "speed": 40,
+    "coolant_temp": 87.4,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930298800,
+    "rpm": 2928,
+    "speed": 55,
+    "coolant_temp": 87.5,
+    "throttle_position": 31,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930299800,
+    "rpm": 2841,
+    "speed": 51,
+    "coolant_temp": 87.6,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930300800,
+    "rpm": 3200,
+    "speed": 45,
+    "coolant_temp": 87.7,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930301800,
+    "rpm": 3198,
+    "speed": 48,
+    "coolant_temp": 87.8,
+    "throttle_position": 31,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930302800,
+    "rpm": 2979,
+    "speed": 45,
+    "coolant_temp": 87.9,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930303800,
+    "rpm": 2000,
+    "speed": 50,
+    "coolant_temp": 88.0,
+    "throttle_position": 20,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930304800,
+    "rpm": 1700,
+    "speed": 35,
+    "coolant_temp": 88.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930305800,
+    "rpm": 1400,
+    "speed": 20,
+    "coolant_temp": 88.2,
+    "throttle_position": 10,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930306800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.3,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930307800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.4,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930308800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.5,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930309800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.6,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930310800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.7,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -41
+  },
+  {
+    "timestamp": 1761930311800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.8,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930312800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 88.9,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930313800,
+    "rpm": 1500,
+    "speed": 0,
+    "coolant_temp": 89.0,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930314800,
+    "rpm": 2000,
+    "speed": 10,
+    "coolant_temp": 89.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930315800,
+    "rpm": 2500,
+    "speed": 20,
+    "coolant_temp": 89.2,
+    "throttle_position": 30,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930316800,
+    "rpm": 3000,
+    "speed": 30,
+    "coolant_temp": 89.3,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930317800,
+    "rpm": 3500,
+    "speed": 40,
+    "coolant_temp": 89.4,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930318800,
+    "rpm": 3034,
+    "speed": 52,
+    "coolant_temp": 89.5,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930319800,
+    "rpm": 2876,
+    "speed": 53,
+    "coolant_temp": 89.6,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930320800,
+    "rpm": 2906,
+    "speed": 55,
+    "coolant_temp": 89.7,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930321800,
+    "rpm": 2849,
+    "speed": 55,
+    "coolant_temp": 89.8,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930322800,
+    "rpm": 2868,
+    "speed": 50,
+    "coolant_temp": 89.9,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930323800,
+    "rpm": 2000,
+    "speed": 50,
+    "coolant_temp": 90.0,
+    "throttle_position": 20,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930324800,
+    "rpm": 1700,
+    "speed": 35,
+    "coolant_temp": 90.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930325800,
+    "rpm": 1400,
+    "speed": 20,
+    "coolant_temp": 90.2,
+    "throttle_position": 10,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930326800,
+    "rpm": 949,
+    "speed": 0,
+    "coolant_temp": 90.3,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930327800,
+    "rpm": 929,
+    "speed": 0,
+    "coolant_temp": 90.4,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930328800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 90.5,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930329800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 90.6,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930330800,
+    "rpm": 922,
+    "speed": 0,
+    "coolant_temp": 90.7,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930331800,
+    "rpm": 912,
+    "speed": 0,
+    "coolant_temp": 90.8,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930332800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 90.9,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930333800,
+    "rpm": 1500,
+    "speed": 0,
+    "coolant_temp": 91.0,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930334800,
+    "rpm": 2000,
+    "speed": 10,
+    "coolant_temp": 91.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930335800,
+    "rpm": 2500,
+    "speed": 20,
+    "coolant_temp": 91.2,
+    "throttle_position": 30,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930336800,
+    "rpm": 3000,
+    "speed": 30,
+    "coolant_temp": 91.3,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -41
+  },
+  {
+    "timestamp": 1761930337800,
+    "rpm": 3500,
+    "speed": 40,
+    "coolant_temp": 91.4,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930338800,
+    "rpm": 2953,
+    "speed": 54,
+    "coolant_temp": 91.5,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930339800,
+    "rpm": 3139,
+    "speed": 45,
+    "coolant_temp": 91.6,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930340800,
+    "rpm": 3060,
+    "speed": 52,
+    "coolant_temp": 91.7,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930341800,
+    "rpm": 3020,
+    "speed": 50,
+    "coolant_temp": 91.8,
+    "throttle_position": 31,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930342800,
+    "rpm": 3011,
+    "speed": 47,
+    "coolant_temp": 91.9,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930343800,
+    "rpm": 2000,
+    "speed": 50,
+    "coolant_temp": 92.0,
+    "throttle_position": 20,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930344800,
+    "rpm": 1700,
+    "speed": 35,
+    "coolant_temp": 92.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930345800,
+    "rpm": 1400,
+    "speed": 20,
+    "coolant_temp": 92.2,
+    "throttle_position": 10,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930346800,
+    "rpm": 924,
+    "speed": 0,
+    "coolant_temp": 92.3,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930347800,
+    "rpm": 938,
+    "speed": 0,
+    "coolant_temp": 92.4,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930348800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 92.5,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930349800,
+    "rpm": 943,
+    "speed": 0,
+    "coolant_temp": 92.6,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930350800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 92.7,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930351800,
+    "rpm": 916,
+    "speed": 0,
+    "coolant_temp": 92.8,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -40
+  },
+  {
+    "timestamp": 1761930352800,
+    "rpm": 923,
+    "speed": 0,
+    "coolant_temp": 92.9,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930353800,
+    "rpm": 1500,
+    "speed": 0,
+    "coolant_temp": 93.0,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930354800,
+    "rpm": 2000,
+    "speed": 10,
+    "coolant_temp": 93.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930355800,
+    "rpm": 2500,
+    "speed": 20,
+    "coolant_temp": 93.2,
+    "throttle_position": 30,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930356800,
+    "rpm": 3000,
+    "speed": 30,
+    "coolant_temp": 93.3,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930357800,
+    "rpm": 3500,
+    "speed": 40,
+    "coolant_temp": 93.4,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930358800,
+    "rpm": 2990,
+    "speed": 46,
+    "coolant_temp": 93.5,
+    "throttle_position": 30,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930359800,
+    "rpm": 3188,
+    "speed": 49,
+    "coolant_temp": 93.6,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -42
+  },
+  {
+    "timestamp": 1761930360800,
+    "rpm": 2854,
+    "speed": 52,
+    "coolant_temp": 93.7,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930361800,
+    "rpm": 2852,
+    "speed": 49,
+    "coolant_temp": 93.8,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -44
+  },
+  {
+    "timestamp": 1761930362800,
+    "rpm": 3105,
+    "speed": 54,
+    "coolant_temp": 93.9,
+    "throttle_position": 32,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -41
+  },
+  {
+    "timestamp": 1761930363800,
+    "rpm": 2000,
+    "speed": 50,
+    "coolant_temp": 94.0,
+    "throttle_position": 20,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930364800,
+    "rpm": 1700,
+    "speed": 35,
+    "coolant_temp": 94.1,
+    "throttle_position": 15,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930365800,
+    "rpm": 1400,
+    "speed": 20,
+    "coolant_temp": 94.2,
+    "throttle_position": 10,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930366800,
+    "rpm": 913,
+    "speed": 0,
+    "coolant_temp": 94.3,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930367800,
+    "rpm": 917,
+    "speed": 0,
+    "coolant_temp": 94.4,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930368800,
+    "rpm": 917,
+    "speed": 0,
+    "coolant_temp": 94.5,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930369800,
+    "rpm": 920,
+    "speed": 0,
+    "coolant_temp": 94.6,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930370800,
+    "rpm": 925,
+    "speed": 0,
+    "coolant_temp": 94.7,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930371800,
+    "rpm": 921,
+    "speed": 0,
+    "coolant_temp": 94.8,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930372800,
+    "rpm": 900,
+    "speed": 0,
+    "coolant_temp": 94.9,
+    "throttle_position": 0,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -43
+  },
+  {
+    "timestamp": 1761930373800,
+    "rpm": 4626,
+    "speed": 89,
+    "coolant_temp": 89,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930374800,
+    "rpm": 4574,
+    "speed": 87,
+    "coolant_temp": 89,
+    "throttle_position": 42,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -59
+  },
+  {
+    "timestamp": 1761930375800,
+    "rpm": 4291,
+    "speed": 95,
+    "coolant_temp": 89,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930376800,
+    "rpm": 4620,
+    "speed": 94,
+    "coolant_temp": 90,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930377800,
+    "rpm": 4419,
+    "speed": 93,
+    "coolant_temp": 91,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -53
+  },
+  {
+    "timestamp": 1761930378800,
+    "rpm": 4287,
+    "speed": 91,
+    "coolant_temp": 89,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930379800,
+    "rpm": 4548,
+    "speed": 91,
+    "coolant_temp": 91,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930380800,
+    "rpm": 4265,
+    "speed": 92,
+    "coolant_temp": 88,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930381800,
+    "rpm": 4536,
+    "speed": 85,
+    "coolant_temp": 91,
+    "throttle_position": 41,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930382800,
+    "rpm": 4362,
+    "speed": 87,
+    "coolant_temp": 89,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930383800,
+    "rpm": 4333,
+    "speed": 90,
+    "coolant_temp": 89,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930384800,
+    "rpm": 4670,
+    "speed": 88,
+    "coolant_temp": 88,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930385800,
+    "rpm": 4553,
+    "speed": 85,
+    "coolant_temp": 88,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930386800,
+    "rpm": 4288,
+    "speed": 91,
+    "coolant_temp": 92,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -53
+  },
+  {
+    "timestamp": 1761930387800,
+    "rpm": 4587,
+    "speed": 86,
+    "coolant_temp": 91,
+    "throttle_position": 44,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930388800,
+    "rpm": 4733,
+    "speed": 85,
+    "coolant_temp": 92,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930389800,
+    "rpm": 4394,
+    "speed": 93,
+    "coolant_temp": 90,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930390800,
+    "rpm": 4536,
+    "speed": 90,
+    "coolant_temp": 92,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930391800,
+    "rpm": 4262,
+    "speed": 91,
+    "coolant_temp": 92,
+    "throttle_position": 44,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930392800,
+    "rpm": 4236,
+    "speed": 92,
+    "coolant_temp": 88,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930393800,
+    "rpm": 5354,
+    "speed": 115,
+    "coolant_temp": 89,
+    "throttle_position": 68,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930394800,
+    "rpm": 5404,
+    "speed": 110,
+    "coolant_temp": 91,
+    "throttle_position": 64,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930395800,
+    "rpm": 5506,
+    "speed": 108,
+    "coolant_temp": 88,
+    "throttle_position": 64,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930396800,
+    "rpm": 5611,
+    "speed": 107,
+    "coolant_temp": 89,
+    "throttle_position": 64,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930397800,
+    "rpm": 5459,
+    "speed": 105,
+    "coolant_temp": 92,
+    "throttle_position": 65,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930398800,
+    "rpm": 5443,
+    "speed": 111,
+    "coolant_temp": 90,
+    "throttle_position": 69,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930399800,
+    "rpm": 5559,
+    "speed": 105,
+    "coolant_temp": 89,
+    "throttle_position": 62,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930400800,
+    "rpm": 5388,
+    "speed": 114,
+    "coolant_temp": 92,
+    "throttle_position": 69,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -59
+  },
+  {
+    "timestamp": 1761930401800,
+    "rpm": 5417,
+    "speed": 109,
+    "coolant_temp": 89,
+    "throttle_position": 64,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930402800,
+    "rpm": 5337,
+    "speed": 113,
+    "coolant_temp": 89,
+    "throttle_position": 65,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930403800,
+    "rpm": 4226,
+    "speed": 94,
+    "coolant_temp": 92,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930404800,
+    "rpm": 4212,
+    "speed": 95,
+    "coolant_temp": 90,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930405800,
+    "rpm": 4462,
+    "speed": 90,
+    "coolant_temp": 91,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930406800,
+    "rpm": 4451,
+    "speed": 87,
+    "coolant_temp": 90,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930407800,
+    "rpm": 4797,
+    "speed": 88,
+    "coolant_temp": 90,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930408800,
+    "rpm": 4337,
+    "speed": 91,
+    "coolant_temp": 92,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -59
+  },
+  {
+    "timestamp": 1761930409800,
+    "rpm": 4318,
+    "speed": 94,
+    "coolant_temp": 90,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930410800,
+    "rpm": 4269,
+    "speed": 90,
+    "coolant_temp": 90,
+    "throttle_position": 42,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930411800,
+    "rpm": 4215,
+    "speed": 94,
+    "coolant_temp": 89,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930412800,
+    "rpm": 4484,
+    "speed": 95,
+    "coolant_temp": 88,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930413800,
+    "rpm": 4336,
+    "speed": 87,
+    "coolant_temp": 90,
+    "throttle_position": 44,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930414800,
+    "rpm": 4611,
+    "speed": 90,
+    "coolant_temp": 92,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930415800,
+    "rpm": 4651,
+    "speed": 85,
+    "coolant_temp": 90,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -58
+  },
+  {
+    "timestamp": 1761930416800,
+    "rpm": 4459,
+    "speed": 86,
+    "coolant_temp": 90,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -49
+  },
+  {
+    "timestamp": 1761930417800,
+    "rpm": 4528,
+    "speed": 89,
+    "coolant_temp": 88,
+    "throttle_position": 43,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930418800,
+    "rpm": 4479,
+    "speed": 91,
+    "coolant_temp": 91,
+    "throttle_position": 44,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930419800,
+    "rpm": 4613,
+    "speed": 87,
+    "coolant_temp": 90,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930420800,
+    "rpm": 4440,
+    "speed": 87,
+    "coolant_temp": 88,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930421800,
+    "rpm": 4728,
+    "speed": 85,
+    "coolant_temp": 90,
+    "throttle_position": 37,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930422800,
+    "rpm": 4758,
+    "speed": 86,
+    "coolant_temp": 88,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930423800,
+    "rpm": 5404,
+    "speed": 108,
+    "coolant_temp": 91,
+    "throttle_position": 61,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930424800,
+    "rpm": 5502,
+    "speed": 110,
+    "coolant_temp": 91,
+    "throttle_position": 69,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930425800,
+    "rpm": 5378,
+    "speed": 106,
+    "coolant_temp": 90,
+    "throttle_position": 64,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930426800,
+    "rpm": 5508,
+    "speed": 106,
+    "coolant_temp": 89,
+    "throttle_position": 70,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930427800,
+    "rpm": 5362,
+    "speed": 108,
+    "coolant_temp": 92,
+    "throttle_position": 70,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930428800,
+    "rpm": 5675,
+    "speed": 107,
+    "coolant_temp": 90,
+    "throttle_position": 61,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930429800,
+    "rpm": 5453,
+    "speed": 108,
+    "coolant_temp": 88,
+    "throttle_position": 70,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930430800,
+    "rpm": 5471,
+    "speed": 107,
+    "coolant_temp": 92,
+    "throttle_position": 70,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930431800,
+    "rpm": 5460,
+    "speed": 108,
+    "coolant_temp": 90,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930432800,
+    "rpm": 5391,
+    "speed": 115,
+    "coolant_temp": 89,
+    "throttle_position": 62,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930433800,
+    "rpm": 4459,
+    "speed": 93,
+    "coolant_temp": 88,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930434800,
+    "rpm": 4533,
+    "speed": 85,
+    "coolant_temp": 92,
+    "throttle_position": 43,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930435800,
+    "rpm": 4391,
+    "speed": 87,
+    "coolant_temp": 92,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930436800,
+    "rpm": 4264,
+    "speed": 90,
+    "coolant_temp": 90,
+    "throttle_position": 43,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -45
+  },
+  {
+    "timestamp": 1761930437800,
+    "rpm": 4756,
+    "speed": 87,
+    "coolant_temp": 90,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930438800,
+    "rpm": 4346,
+    "speed": 91,
+    "coolant_temp": 88,
+    "throttle_position": 36,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930439800,
+    "rpm": 4208,
+    "speed": 87,
+    "coolant_temp": 89,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930440800,
+    "rpm": 4681,
+    "speed": 86,
+    "coolant_temp": 90,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -59
+  },
+  {
+    "timestamp": 1761930441800,
+    "rpm": 4715,
+    "speed": 92,
+    "coolant_temp": 88,
+    "throttle_position": 41,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930442800,
+    "rpm": 4793,
+    "speed": 93,
+    "coolant_temp": 89,
+    "throttle_position": 42,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930443800,
+    "rpm": 4399,
+    "speed": 87,
+    "coolant_temp": 91,
+    "throttle_position": 42,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930444800,
+    "rpm": 4517,
+    "speed": 85,
+    "coolant_temp": 89,
+    "throttle_position": 39,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930445800,
+    "rpm": 4682,
+    "speed": 93,
+    "coolant_temp": 92,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930446800,
+    "rpm": 4775,
+    "speed": 90,
+    "coolant_temp": 89,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930447800,
+    "rpm": 4293,
+    "speed": 92,
+    "coolant_temp": 92,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -48
+  },
+  {
+    "timestamp": 1761930448800,
+    "rpm": 4346,
+    "speed": 92,
+    "coolant_temp": 88,
+    "throttle_position": 42,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -52
+  },
+  {
+    "timestamp": 1761930449800,
+    "rpm": 4667,
+    "speed": 87,
+    "coolant_temp": 90,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930450800,
+    "rpm": 4368,
+    "speed": 92,
+    "coolant_temp": 89,
+    "throttle_position": 41,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930451800,
+    "rpm": 4440,
+    "speed": 93,
+    "coolant_temp": 92,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -51
+  },
+  {
+    "timestamp": 1761930452800,
+    "rpm": 4784,
+    "speed": 86,
+    "coolant_temp": 91,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -59
+  },
+  {
+    "timestamp": 1761930453800,
+    "rpm": 5542,
+    "speed": 108,
+    "coolant_temp": 88,
+    "throttle_position": 69,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930454800,
+    "rpm": 5633,
+    "speed": 106,
+    "coolant_temp": 89,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930455800,
+    "rpm": 5407,
+    "speed": 109,
+    "coolant_temp": 88,
+    "throttle_position": 61,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930456800,
+    "rpm": 5353,
+    "speed": 111,
+    "coolant_temp": 89,
+    "throttle_position": 63,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930457800,
+    "rpm": 5553,
+    "speed": 112,
+    "coolant_temp": 88,
+    "throttle_position": 70,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930458800,
+    "rpm": 5402,
+    "speed": 114,
+    "coolant_temp": 89,
+    "throttle_position": 66,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  },
+  {
+    "timestamp": 1761930459800,
+    "rpm": 5383,
+    "speed": 108,
+    "coolant_temp": 91,
+    "throttle_position": 66,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -58
+  },
+  {
+    "timestamp": 1761930460800,
+    "rpm": 5344,
+    "speed": 113,
+    "coolant_temp": 90,
+    "throttle_position": 62,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930461800,
+    "rpm": 5547,
+    "speed": 115,
+    "coolant_temp": 91,
+    "throttle_position": 68,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -53
+  },
+  {
+    "timestamp": 1761930462800,
+    "rpm": 5362,
+    "speed": 110,
+    "coolant_temp": 89,
+    "throttle_position": 60,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930463800,
+    "rpm": 4256,
+    "speed": 91,
+    "coolant_temp": 91,
+    "throttle_position": 43,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -56
+  },
+  {
+    "timestamp": 1761930464800,
+    "rpm": 4672,
+    "speed": 87,
+    "coolant_temp": 90,
+    "throttle_position": 35,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -54
+  },
+  {
+    "timestamp": 1761930465800,
+    "rpm": 4287,
+    "speed": 87,
+    "coolant_temp": 91,
+    "throttle_position": 45,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -46
+  },
+  {
+    "timestamp": 1761930466800,
+    "rpm": 4753,
+    "speed": 86,
+    "coolant_temp": 88,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -47
+  },
+  {
+    "timestamp": 1761930467800,
+    "rpm": 4709,
+    "speed": 88,
+    "coolant_temp": 89,
+    "throttle_position": 40,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930468800,
+    "rpm": 4782,
+    "speed": 87,
+    "coolant_temp": 91,
+    "throttle_position": 42,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930469800,
+    "rpm": 4362,
+    "speed": 90,
+    "coolant_temp": 90,
+    "throttle_position": 44,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -55
+  },
+  {
+    "timestamp": 1761930470800,
+    "rpm": 4522,
+    "speed": 91,
+    "coolant_temp": 92,
+    "throttle_position": 43,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -60
+  },
+  {
+    "timestamp": 1761930471800,
+    "rpm": 4363,
+    "speed": 92,
+    "coolant_temp": 92,
+    "throttle_position": 38,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -57
+  },
+  {
+    "timestamp": 1761930472800,
+    "rpm": 4381,
+    "speed": 88,
+    "coolant_temp": 89,
+    "throttle_position": 41,
+    "system_state": "CONNECTED",
+    "wifi_connected": true,
+    "wifi_rssi": -50
+  }
+]

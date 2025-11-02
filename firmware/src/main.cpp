@@ -1,12 +1,17 @@
 ﻿/**
  * @file main.cpp
  * @brief Main application for Husqvarna Svartpilen 401 OBD2 Reader
- * @version 1.0
- * @date 2025-10-30
+ * @version 2.0
+ * @date 2025-10-31
  * 
  * Architecture: Layered Architecture
- * - BSW Layer: Hardware abstraction, drivers, communication
+ * - BSW Layer: Hardware abstraction, drivers, communication (BLE + WiFi)
  * - Application Layer: OBD2 handling, web server, data management
+ * 
+ * Updates v2.0:
+ * - Added BLE (Bluetooth Low Energy) support for wireless communication
+ * - Desktop app can connect via BLE instead of Serial USB
+ * - Dual mode: BLE for desktop + HTTP for web monitoring
  */
 
 #include <Arduino.h>
@@ -16,16 +21,20 @@
 #include "hal_interface.h"
 #include "can_interface.h"
 #include "obd2_handler.h"
+#include "ble_service.h"
 
 // System Configuration
 const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
+// BLE Configuration
+#define ENABLE_BLE true  // Set to false to disable BLE
+
 // Hardware Pins Configuration for MCP2515
 static const HardwarePins_t hardware_pins = {
-    .mcp2515_cs = 5,                /* MCP2515 CS pin */
+    .mcp2515_cs = 4,                /* MCP2515 CS pin */
     .mcp2515_int = 2,               /* MCP2515 INT pin */
-    .spi_mosi = 23,                 /* SPI MOSI pin */
+    .spi_mosi = 21,                 /* SPI MOSI pin (SI) */
     .spi_miso = 19,                 /* SPI MISO pin */
     .spi_sck = 18,                  /* SPI SCK pin */
     .status_led = 25                /* Status LED pin */
@@ -51,23 +60,44 @@ void output_vehicle_data_json(void);
 
 void setup() {
     Serial.begin(115200);
-    Serial.println("Husqvarna Svartpilen 401 OBD2 Reader v1.0");
-    Serial.println("Using Professional Layered Architecture");
+    Serial.println("========================================");
+    Serial.println("Husqvarna Svartpilen 401 OBD2 Reader v2.0");
+    Serial.println("BLE + WiFi Edition");
+    Serial.println("Professional Layered Architecture");
+    Serial.println("========================================");
     
     system_init();
     
     Serial.println("System initialization complete!");
+    Serial.println("========================================");
 }
 
 void loop() {
     static unsigned long last_json_output = 0;
+    static unsigned long last_ble_send = 0;
     const unsigned long JSON_OUTPUT_INTERVAL = 1000; // Output every 1 second
+    const unsigned long BLE_SEND_INTERVAL = 200;     // BLE update every 200ms
     
+    unsigned long current_time = millis();
+    
+    // Handle web server
     server.handleClient();
+    
+    // Run system tasks
     system_task();
     
-    // Output JSON data for desktop application
-    unsigned long current_time = millis();
+    // Update BLE connection status
+    BLE_UpdateStatus();
+    
+    // Send data via BLE if connected
+    if (ENABLE_BLE && BLE_IsConnected()) {
+        if (current_time - last_ble_send >= BLE_SEND_INTERVAL) {
+            BLE_SendVehicleData(&last_vehicle_data);
+            last_ble_send = current_time;
+        }
+    }
+    
+    // Output JSON data to Serial for debugging
     if (current_time - last_json_output >= JSON_OUTPUT_INTERVAL) {
         output_vehicle_data_json();
         last_json_output = current_time;
@@ -83,6 +113,25 @@ void system_init(void) {
     // Initialize GPIO for status LED
     HAL_GPIO_Init(hardware_pins.status_led, HAL_GPIO_MODE_OUTPUT);
     HAL_GPIO_Write(hardware_pins.status_led, GPIO_LEVEL_LOW);
+    
+    // Initialize BLE Service
+    if (ENABLE_BLE) {
+        Serial.println("Initializing BLE service...");
+        BLEConfig_t ble_config = {
+            .device_name = BLE_DEVICE_NAME,
+            .auto_advertise = true,
+            .mtu_size = 517  // Maximum MTU for better throughput
+        };
+        
+        Status_t ble_status = BLE_Init(&ble_config);
+        if (ble_status == STATUS_OK) {
+            Serial.println("✓ BLE service initialized successfully");
+            Serial.println("  Device is now discoverable as: " BLE_DEVICE_NAME);
+            Serial.println("  Desktop app can connect via Bluetooth");
+        } else {
+            Serial.println("✗ BLE initialization failed");
+        }
+    }
     
     // Initialize MCP2515 CAN controller
     if (!CAN_InitMCP2515(&hardware_pins)) {
@@ -149,8 +198,27 @@ void vehicle_data_callback(const VehicleData_t* data) {
 void system_task(void) {
     static uint32_t last_data_read = 0;
     static uint32_t last_led_blink = 0;
+    static uint32_t last_ble_check = 0;
+    static uint32_t debug_counter = 0;
     
     uint32_t current_time = millis();
+    
+    // Debug: Print every 5 seconds
+    if (debug_counter++ % 250 == 0) {  // 250 * 20ms = 5s
+        Serial.printf("DEBUG: time=%lu, last_ble_check=%lu, diff=%lu\n", 
+                      current_time, last_ble_check, current_time - last_ble_check);
+    }
+    
+    // Check BLE connection timeout every 2 seconds
+    if (current_time - last_ble_check >= 2000) {
+        Serial.println("MAIN: Calling BLE check..."); // DEBUG
+        if (g_bleService) {
+            g_bleService->checkConnectionTimeout();
+        } else {
+            Serial.println("MAIN: g_bleService is NULL!"); // DEBUG
+        }
+        last_ble_check = current_time;
+    }
     
     // Read OBD2 data periodically
     if (current_time - last_data_read >= 200) {
